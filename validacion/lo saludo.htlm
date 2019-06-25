@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang=”es”> 
+  <head> 
+    <meta charset=UTF-8″/>
+    <meta name=”description” content=”Ejemplo con HTML5”/> 
+    <meta name=”keywords” content=”HTML5,CSS3,Javascript”/>
+    <title>EVOLUCION UCI</title>
+    <link rel=”stylesheet” href=”evolucion.css”/>
+  </head>
+  <body>
+    <Form action = "http://foo.com" method = "get">
+  <Div>
+    <Label for = "dice"> Lo saludo qué quiere decir? </ Label>
+    <Input name = "decir" id = "decir" value = "Hola">
+  </ Div>
+  <Div>
+    <Label for = "para"> ¿Quién usted quiere decir que a? </ Label>
+    <Input name = "a" value = "mamá">
+  </ Div>
+  <Div>
+    <> Botón enviar mis saludos </botón>
+  </ Div>
+</ Form>
+</body>
